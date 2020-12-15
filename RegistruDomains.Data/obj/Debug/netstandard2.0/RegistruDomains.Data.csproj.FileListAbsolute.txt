@@ -1,0 +1,12 @@
+C:\Users\amade\source\repos\RegistruCentras\RegistruDomains.Data\bin\Debug\netstandard2.0\RegistruDomains.Data.deps.json
+C:\Users\amade\source\repos\RegistruCentras\RegistruDomains.Data\bin\Debug\netstandard2.0\RegistruDomains.Data.dll
+C:\Users\amade\source\repos\RegistruCentras\RegistruDomains.Data\obj\Debug\netstandard2.0\RegistruDomains.Data.AssemblyInfoInputs.cache
+C:\Users\amade\source\repos\RegistruCentras\RegistruDomains.Data\obj\Debug\netstandard2.0\RegistruDomains.Data.AssemblyInfo.cs
+C:\Users\amade\source\repos\RegistruCentras\RegistruDomains.Data\obj\Debug\netstandard2.0\RegistruDomains.Data.csprojAssemblyReference.cache
+C:\Users\amade\source\repos\RegistruCentras\RegistruDomains.Data\bin\Debug\netstandard2.0\RegistruDomains.Data.pdb
+C:\Users\amade\source\repos\RegistruCentras\RegistruDomains.Data\bin\Debug\netstandard2.0\RegistruCentras.Domains.dll
+C:\Users\amade\source\repos\RegistruCentras\RegistruDomains.Data\bin\Debug\netstandard2.0\RegistruCentras.Domains.pdb
+C:\Users\amade\source\repos\RegistruCentras\RegistruDomains.Data\obj\Debug\netstandard2.0\RegistruDomains.Data.csproj.CoreCompileInputs.cache
+C:\Users\amade\source\repos\RegistruCentras\RegistruDomains.Data\obj\Debug\netstandard2.0\RegistruDomains.Data.csproj.CopyComplete
+C:\Users\amade\source\repos\RegistruCentras\RegistruDomains.Data\obj\Debug\netstandard2.0\RegistruDomains.Data.dll
+C:\Users\amade\source\repos\RegistruCentras\RegistruDomains.Data\obj\Debug\netstandard2.0\RegistruDomains.Data.pdb

@@ -1,0 +1,9 @@
+C:\Users\amade\source\repos\RegistruCentras\RegistruCentras.Domains\bin\Debug\netstandard2.0\RegistruCentras.Domains.deps.json
+C:\Users\amade\source\repos\RegistruCentras\RegistruCentras.Domains\bin\Debug\netstandard2.0\RegistruCentras.Domains.dll
+C:\Users\amade\source\repos\RegistruCentras\RegistruCentras.Domains\bin\Debug\netstandard2.0\RegistruCentras.Domains.pdb
+C:\Users\amade\source\repos\RegistruCentras\RegistruCentras.Domains\obj\Debug\netstandard2.0\RegistruCentras.Domains.csprojAssemblyReference.cache
+C:\Users\amade\source\repos\RegistruCentras\RegistruCentras.Domains\obj\Debug\netstandard2.0\RegistruCentras.Domains.AssemblyInfoInputs.cache
+C:\Users\amade\source\repos\RegistruCentras\RegistruCentras.Domains\obj\Debug\netstandard2.0\RegistruCentras.Domains.AssemblyInfo.cs
+C:\Users\amade\source\repos\RegistruCentras\RegistruCentras.Domains\obj\Debug\netstandard2.0\RegistruCentras.Domains.csproj.CoreCompileInputs.cache
+C:\Users\amade\source\repos\RegistruCentras\RegistruCentras.Domains\obj\Debug\netstandard2.0\RegistruCentras.Domains.dll
+C:\Users\amade\source\repos\RegistruCentras\RegistruCentras.Domains\obj\Debug\netstandard2.0\RegistruCentras.Domains.pdb

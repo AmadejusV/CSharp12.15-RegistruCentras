@@ -1,0 +1,11 @@
+﻿@model RegistruCentras.Web.Models.QuestionViewModel
+
+
+
+
+    <form asp-action="AskQuestion">
+        <input asp-for="Question" />
+        <input asp-for="IsPrivate" type="checkbox" />
+        <label asp-for="IsPrivate">Do you want your question to be private</label>
+        <button type="submit" class="btn btn-primary">Ask a Question</button>
+    </form>

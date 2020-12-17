@@ -20,7 +20,7 @@ namespace RegistruCentras.Web.Controllers
 
         public IActionResult Index()
         {
-            _logger.LogError("musu erroras");
+            _logger.LogError("musu labai geras erroras");
             return View();
         }
 

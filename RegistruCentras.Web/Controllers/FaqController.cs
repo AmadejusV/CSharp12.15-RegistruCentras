@@ -59,9 +59,6 @@ namespace RegistruCentras.Web.Controllers
             return View(model);
         }
 
-        // POST: Faqs/Create
-        // To protect from overposting attacks, enable the specific properties you want to bind to, for 
-        // more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Create(/*[Bind("Question,Answer")]*/ FaqViewModel faq)
@@ -96,9 +93,7 @@ namespace RegistruCentras.Web.Controllers
             return View(faq);
         }
 
-        // POST: Faqs/Edit/5
-        // To protect from overposting attacks, enable the specific properties you want to bind to, for 
-        // more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
+
         [HttpPost]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Edit(Guid id, [Bind("FaqID,Question,Answer")] Faq faq)

@@ -7,6 +7,6 @@ namespace RegistruCentras.Web.Models
         public string RequestId { get; set; }
 
         public bool ShowRequestId => !string.IsNullOrEmpty(RequestId);
-        public bool JustTest {get;set;}
+        public bool JustTest21 {get;set;}
     }
 }
